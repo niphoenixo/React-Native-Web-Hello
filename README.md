@@ -12,7 +12,7 @@
 
 <hr/>
 
-## How to creat react-native-web project
+## How to install react-native-web project 
 
 - npm install create-react-app
 - create-react-app native_login_demo
@@ -20,3 +20,5 @@
 
 - npm add react-native;
 - npm add react-native-web;
+
+
