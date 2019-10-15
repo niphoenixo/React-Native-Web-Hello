@@ -22,3 +22,6 @@
 - npm add react-native-web;
 
 
+## AppRegistry 
+
+The JS entry point for all React native app is <b>AppRegistry</b>. In AppRegistry the app root Component should be registered. Then only react native loads the app and then run the app by invoking the AppRegistry.runApplication
