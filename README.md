@@ -12,7 +12,7 @@
 
 <hr/>
 
-## Created react project
+## How to creat react-native-web project
 
 - npm install create-react-app
 - create-react-app native_login_demo
