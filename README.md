@@ -3,13 +3,15 @@
 
 
 <hr/>
+
 ## Prerequisites
-- npm
-- node
-- React
-- git
+ - npm
+ - node
+ - React
+ - git
 
 <hr/>
+
 ## Created react project
 
 - npm install create-react-app
