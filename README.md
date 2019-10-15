@@ -1,5 +1,5 @@
 # React-Native-Web-Hello
-  This is the simple react-native-web hello program demo, to those people who already knew reactJs & wanted to learn reactNative Web.
+  This is the simple react-native-web hello program demo, to those dev who already knew reactJs & wanted to learn reactNative Web.
 
 
 <hr/>
