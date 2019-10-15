@@ -21,6 +21,7 @@
 - npm add react-native;
 - npm add react-native-web;
 
+<hr/>
 
 ## AppRegistry 
 
